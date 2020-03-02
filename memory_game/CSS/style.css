@@ -25,11 +25,12 @@ h2 {
 	font-size: 20px;
 }
 
-#instructions {
+#instructions, .reset {
 	font-family: "Droid Serif", serif;
 	line-height: 26px;
 	font-size: 18px;
 }
+
 
 nav {
 	background-color: #00A6B3;
